@@ -1,0 +1,5 @@
+ls | wc &
+ps
+clear
+ls | sleep 100 &
+ps
