@@ -1,8 +1,4 @@
 # POSIX Shell Implementation
-
-**Course**: Advanced Operating Systems 
-**Assignment**: POSIX Shell Implementation  
-
 ## Overview
 
 This project is a custom POSIX-compliant shell written in C++. The shell provides interface with support for executing commands, managing background processes, handling input/output redirection, piping, and implementing built-in commands like `cd`, `pwd`, `echo`, `ls`, `pinfo`, and `history`. The shell also handles basic signal processing, command history, and tab completion.
